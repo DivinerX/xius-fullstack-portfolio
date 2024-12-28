@@ -1,0 +1,90 @@
+Skills 
+NextJS
+React Native
+Golang
+Javascript
+Typescript
+Python
+HTML5
+CSS3
+TailwindCSS
+NodeJS
+MongoDB
+Express
+Java
+GraphQL
+Git
+PostgreSQL
+Prisma
+Zustand/ RTK
+Linux
+Docker
+TRPC
+FastAPI
+MySQL
+Azure
+Jest
+Redis
+
+
+- /projects page
+
+-- Medium
+Full stack Native app + Admin Dashboard to Publish your Courses + Live Courses + All Feature a App should have
+
+-- Practitioner
+Prepare with our expert-led mock interviews and get personalized feedback to land your dream job.
+
+-- ToJSON
+The Easiest way to communicate with your any Data with any Data type with the help of AI. We convert your Important data to JSON format.
+
+-- Research PDFs Decoder
+Research Pdf Decoder is a Full Stack side project which focus on extracting important notes from any Research papers PDF. It also capable of chatting with PDFs
+
+-- keepDraw
+KeepDraw is a typescript powered Full Stack Application where user can create real time Boards and draw on it with their organization's members
+
+-- AI Formulator
+Create your forms in seconds with the help of AI
+
+-- Reform
+Create and share form easily with beautiful webflow prototype feature
+
+-- Quesgen Pro
+QuesGen Pro is a platform designed to facilitate the taking of tests, whether they are multiple-choice (MCQ) or open-ended questions, with the assistance of AI.
+
+-- Code with us Editor
+Where you can Write your code with your friends with syncing feature and compile your code with given compiler
+
+More project on github -> https://github.com/xius-dev
+
+- Experience
+Codemate
+Software Engineer - Full Stack Engineer - Oct 2023 - Present
+
+One Oath
+Full Stack Developer Intern - June 2023 - Oct 2023
+
+AA Intergalactic – Infrastructure
+Web Developer Intern - March 2023 - June 2023
+
+
+## WHO AM I
+
+I'm a full-stack developer in [Dallas, TX](https://maps.app.goo.gl/). I am creative and passionate about design and technology so I always try to craft great-looking software products.
+
+Before getting into software development, I wanted to make some real time Web Applications. When I started programming my first Applications, I realized what my real passion was and started learning more about software development.
+
+When not coding, I like to watch TV shows and movies, play some games with friends or hang out with them. I'm also **listening to music** most of the time.😁
+
+I consider myself a curious and inquisitive person, so on my spare time I like to work on [side projects](/projects), try to contribute to open source software and aim to constantly learn something new to improve my skillset.
+
+And last but not least, please don't hesitate to [contact me](/contact)!
+
+## Links
+
+- [Instagram](https://www.instagram.com/1.57398402365435)
+- [Linkedin](https://linkedin.com/in/loc-yan0791)
+- [GitHub](https://github.com/xius-dev)
+
+
