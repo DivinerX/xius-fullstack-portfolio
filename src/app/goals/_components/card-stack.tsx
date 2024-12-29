@@ -38,9 +38,9 @@ const CARDS = [
     name: "Loch Yan",
     designation: "",
     content: (
-        <p>
+      <p>
         My priority-based goal will be to <Highlight>master the Golang language</Highlight> in my free time because Golang offers godlike simplicity and performance. As I delve into its depths, I'll be harnessing the power of coding greatness!
-    </p>
+      </p>
     ),
   },
   {
@@ -48,9 +48,9 @@ const CARDS = [
     name: "Loch Yan",
     designation: "",
     content: (
-        <p>
+      <p>
         The only sport where I am confident is soccer, but I want to <Highlight>venture into the world of golf</Highlight> as well. After all, mastering both the pitch and the green adds a whole new dimension to my athletic prowess!
-    </p>
+      </p>
     ),
   },
   {
@@ -58,9 +58,9 @@ const CARDS = [
     name: "Loch Yan",
     designation: "",
     content: (
-        <p>
+      <p>
         I don't embark on many trips, so I aim to <Highlight>plan an exciting adventure</Highlight> to truly <Highlight>rejuvenate my soul</Highlight>. Who said relaxation can't be an adrenaline-fueled adventure?
-    </p>
+      </p>
     ),
   },
 ];

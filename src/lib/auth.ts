@@ -1,5 +1,5 @@
 import { env } from '@/env'
-import type { NextAuthConfig } from 'next-auth'
+import type { AuthOptions } from 'next-auth'
 import NextAuth from 'next-auth'
 import GithubProvider from 'next-auth/providers/github'
 
@@ -7,7 +7,6 @@ declare module 'next-auth' {
   /**
    * The session object.
    */
-  // eslint-disable-next-line @typescript-eslint/consistent-type-definitions
   interface Session {
     /**
      * The user object.
@@ -33,7 +32,7 @@ declare module 'next-auth' {
   }
 }
 
-export const config: NextAuthConfig = {
+export const config: AuthOptions = {
   secret: env.NEXTAUTH_SECRET,
   providers: [
     GithubProvider({

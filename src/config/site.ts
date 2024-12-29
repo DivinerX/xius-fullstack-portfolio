@@ -44,7 +44,7 @@ const prodBaseURL = "https://xius-dev.vercel.app";
 const devBaseURL = "http://localhost:3000";
 
 const site: Site = {
-  url: env.NEXT_PUBLIC_NODE_ENV === "production" ? prodBaseURL : devBaseURL,
+  url: process.env.mode === "development" ? devBaseURL : prodBaseURL,
   title: "Loch Yan",
   name: "Loch Yan",
   keywords: ["loc-yan0791", "Next.js", "React", "TypeScript", "Node.js"],

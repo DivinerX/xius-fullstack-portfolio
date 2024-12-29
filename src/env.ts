@@ -1,5 +1,8 @@
 import { createEnv } from "@t3-oss/env-nextjs"
 import { z } from "zod"
+import dotenv from "dotenv"
+
+dotenv.config()
 
 export const env = createEnv({
   server: {
@@ -14,11 +17,8 @@ export const env = createEnv({
     PINECONE_API_KEY: z.string().min(5),
     PINECONE_INDEX_NAME: z.string().min(5),
   },
-  client: {
-    NEXT_PUBLIC_NODE_ENV: z.enum(["development", "test", "production"]),
-  },
+  client: {},
   runtimeEnv: {
-    NEXT_PUBLIC_NODE_ENV: process.env.NODE_ENV,
     DATABASE_URL: process.env.DATABASE_URL,
     GOOGLE_API_KEY: process.env.GOOGLE_API_KEY,
     UPSTASH_REDIS_REST_URL: process.env.UPSTASH_REDIS_REST_URL,
