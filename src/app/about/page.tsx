@@ -7,7 +7,7 @@ import getPage from '@/utils/get-page'
 
 export const runtime = 'edge'
 const title = 'About'
-const description = 'A student who loves web development.'
+const description = 'A developer who loves to build things.'
 
 /**
  * The props of {@link AboutPage}.
@@ -57,7 +57,6 @@ const AboutPage = () => {
   return (
     <>
       <PageTitle title='About' description='👋 Hi there! I am Loch.' />
-      {/* <ImageContainer /> */}
       <Mdx code={page.body.code} />
     </>
   )

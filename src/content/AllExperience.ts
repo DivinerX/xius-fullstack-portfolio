@@ -9,7 +9,7 @@ export const experiences = [
       "Collaborated with cross-functional teams to gather system requirements, balance workloads, and oversee the end-to-end software development lifecycle from implementation to deployment.",
       "Established robust CI/CD pipelines, conducted pull requests, and performed code reviews, ensuring high standards of code quality, scalability, and maintainability through rigorous testing (unit, integration, and end-to-end testing).",
     ],
-    location: "Noida, UP,India",
+    location: "Dallas, Texas",
     link: { url: "https://www.codemate.ai/", label: "codemate" },
     logo: "/images/exp/codemate.webp",
   },
@@ -22,7 +22,7 @@ export const experiences = [
       "Developed a CI/CD workflow to automatically perform a set of actions daily on a product in development in order to decrease time needed for team members to identify and fix bugs/issues",
       "Collaborated closely with the AI core team to strategically integrate Python backend components, ensuring the seamless operation of critical system functions",
     ],
-    location: "Remote (West Bengal, India)",
+    location: "Remote (Dallas, Texas)",
     link: { url: "/", label: "one oath" },
     logo: "/images/exp/oath.webp",
   },
@@ -48,12 +48,12 @@ export const siteMetadata = {
   experience: {
     education: [
       {
-        schoolName: "Barkatullah University Institute of Technology",
-        degree: "Bachelor of Technology",
+        schoolName: "The University of Texas at Dallas",
+        degree: "Bachelor of Science",
         description:
-          "Barkatullah University Institute of Technology is a public engineering college located in Bhopal, Madhya Pradesh, India. It is one of the 15 government engineering colleges in Madhya Pradesh.",
-        startDate: "2020",
-        endDate: "2024",
+          "The University of Texas at Dallas is a public research university located in the Dallas-Fort Worth metroplex.",
+        startDate: "2013",
+        endDate: "2017",
         typeofDegree: "Bachelor Degree",
       },
     ],

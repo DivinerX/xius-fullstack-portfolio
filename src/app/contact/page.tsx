@@ -9,7 +9,7 @@ export const description = 'A student who loves web development.'
 export const metadata: Metadata = {
   title: "Contact - Loch Yan",
     description:
-    "Loch Yan is a full-stack developer in India. He is creative and passionate about design and technology so he always try to craft great-looking software products.",
+    "Loch Yan is a full-stack developer in Dallas, Texas. He is creative and passionate about design and technology so he always try to craft great-looking software products.",
 };
 
 const ContactPage = () => {
