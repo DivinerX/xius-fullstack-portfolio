@@ -28,7 +28,7 @@ const Pinned = () => {
         <a
           className="font-bold"
           target="_blank"
-          href="https://github.com/locyan0791"
+          href="https://github.com/loc-yan"
         >
           link
         </a>

@@ -27,7 +27,7 @@ const Pinned = () => {
         Medium profile. Thanks and here is{" "}
         <a
           className="font-bold"
-          href="https://medium.com/@locyan0791"
+          href="https://medium.com/@loc.yan0825"
           target="_blank"
         >
           link

@@ -130,7 +130,7 @@ const CommandMenu = () => {
           title: "LinkedIn",
           icon: <IconBrandLinkedin size={16} className="mr-2" />,
           onSelect: () =>
-            openLink("https://www.linkedin.com/in/locyan0791"),
+            openLink("https://www.linkedin.com/in/locyan0825"),
         },
       ],
     },

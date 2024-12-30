@@ -36,10 +36,10 @@ const Contact = () => {
             <div className="flex flex-row gap-6">
               <p className="sm:text-lg">linkedin</p>
               <a
-                href="https://www.linkedin.com/in/locyan0791/"
+                href="https://www.linkedin.com/in/locyan0825/"
                 className="sm:text-lg text-gray-500 font-semibold dark:text-gray-300 hover:text-sky-600"
               >
-                locyan0791
+                locyan0825
               </a>
             </div>
             <div className="flex flex-row gap-6">
