@@ -103,7 +103,7 @@ const CommandMenu = () => {
           title: "Source code",
           icon: <IconCode size={16} className="mr-2" />,
           onSelect: () =>
-            openLink("https://github.com/xius-dev/xius-dev"),
+            openLink("https://github.com/loch-yan"),
         },
       ],
     },

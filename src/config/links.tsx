@@ -158,7 +158,7 @@ export const FOOTER_LINKS: FooterLinks = [
         title: "Instagram",
       },
       {
-        href: "https://github.com/xius-dev",
+        href: "https://github.com/loch-yan",
         title: "GitHub",
       },
       {
@@ -174,7 +174,7 @@ export const HERO_LINKS: HeroLinks = [
     id: "github",
     label: "GitHub",
     icon: <IconBrandGithub size={28} />,
-    href: "https://github.com/xius-dev",
+    href: "https://github.com/loch-yan",
   },
   {
     id: "instagram",

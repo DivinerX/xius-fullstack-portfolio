@@ -45,7 +45,7 @@ const Contact = () => {
             <div className="flex flex-row gap-6">
               <p className="sm:text-lg">Medium</p>
               <a
-                href="https://medium.com/@locyan0825"
+                href="https://medium.com/@loc.yan0825"
                 className="sm:text-lg text-gray-500 font-semibold dark:text-gray-300 hover:text-violet-600"
               >
                 locyan0825
@@ -54,7 +54,7 @@ const Contact = () => {
             <div className="flex flex-row gap-6">
               <p className="sm:text-lg">Ask me Anything</p>
               <a
-                href="https://github.com/xius-dev"
+                href="https://github.com/loch-yan"
                 className="sm:text-lg text-gray-500 dark:text-gray-300 font-semibold hover:text-pink-600"
               >
                 on Github

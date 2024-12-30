@@ -40,7 +40,7 @@ type Site = {
   favicons: IconDescriptor[];
 };
 
-const prodBaseURL = "https://xius-dev.vercel.app";
+const prodBaseURL = "https://loch-yan.vercel.app";
 const devBaseURL = "http://localhost:3000";
 
 const site: Site = {

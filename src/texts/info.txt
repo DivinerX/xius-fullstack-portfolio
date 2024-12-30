@@ -56,17 +56,17 @@ QuesGen Pro is a platform designed to facilitate the taking of tests, whether th
 -- Code with us Editor
 Where you can Write your code with your friends with syncing feature and compile your code with given compiler
 
-More project on github -> https://github.com/xius-dev
+More project on github -> https://github.com/loch-yan
 
 - Experience
 Codemate
-Software Engineer - Full Stack Engineer - Oct 2023 - Present
+Software Engineer - September 2021 - November 2024
 
-One Oath
-Full Stack Developer Intern - June 2023 - Oct 2023
+Ubex
+Full Stack Engineer - August 2019 - April 2021
 
-AA Intergalactic – Infrastructure
-Web Developer Intern - March 2023 - June 2023
+AAA Intergalactic – Infrastructure
+Web Developer Intern - June 2017 - May 2019
 
 
 ## WHO AM I
@@ -85,6 +85,6 @@ And last but not least, please don't hesitate to [contact me](/contact)!
 
 - [Instagram](https://www.instagram.com/1.57398402365435)
 - [Linkedin](https://linkedin.com/in/loch-yan0825)
-- [GitHub](https://github.com/xius-dev)
+- [GitHub](https://github.com/loch-yan)
 
 
