@@ -47,10 +47,10 @@ const site: Site = {
   url: process.env.mode === "development" ? devBaseURL : prodBaseURL,
   title: "Loch Yan",
   name: "Loch Yan",
-  keywords: ["loc-yan", "Next.js", "React", "TypeScript", "Node.js"],
+  keywords: ["loch-yan", "Next.js", "React", "TypeScript", "Node.js"],
   titleTemplate: "- Loch Yan",
   description: "Loch Yan • Full-stack Developer",
-  githubUsername: "loc-yan",
+  githubUsername: "loch-yan",
   favicons: [
     {
       rel: "icon",
