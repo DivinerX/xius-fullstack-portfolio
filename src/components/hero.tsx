@@ -26,7 +26,7 @@ const Hero = () => {
           </h2>
           <p className="sm:text-lg">
             I am a Passionate and creative Full Stack developer based in{" "}
-            Dallas, Texas{" "}
+            Hong Kong{" "}
           </p>
         </div>
         <div className="h-15 w-15 relative md:h-64 md:w-64">

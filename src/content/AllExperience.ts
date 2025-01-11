@@ -48,10 +48,10 @@ export const siteMetadata = {
   experience: {
     education: [
       {
-        schoolName: "The University of Texas at Dallas",
+        schoolName: "The University of Hong Kong",
         degree: "Bachelor of Science",
         description:
-          "The University of Texas at Dallas is a public research university located in the Dallas-Fort Worth metroplex.",
+          "The University of Hong Kong is a public research university located in the Hong Kong.",
         startDate: "2013",
         endDate: "2017",
         typeofDegree: "Bachelor Degree",

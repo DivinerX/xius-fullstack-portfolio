@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "Home | Loch Yan",
   robots: {index: true, follow: true},
     description:
-    "Loch Yan is a full-stack developer in Dallas, TX. He is creative and passionate about design and technology so he always try to craft great-looking software products.",
+    "Loch Yan is a full-stack developer in Hong Kong. He is creative and passionate about design and technology so he always try to craft great-looking software products.",
   alternates: {
     canonical: site.url,
   },

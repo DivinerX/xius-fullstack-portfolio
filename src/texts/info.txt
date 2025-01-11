@@ -71,7 +71,7 @@ Web Developer Intern - June 2017 - May 2019
 
 ## WHO AM I
 
-I'm a full-stack developer in [Dallas, TX](https://maps.app.goo.gl/). I am creative and passionate about design and technology so I always try to craft great-looking software products.
+I'm a full-stack developer in [Hong Kong](https://maps.app.goo.gl/). I am creative and passionate about design and technology so I always try to craft great-looking software products.
 
 Before getting into software development, I wanted to make some real time Web Applications. When I started programming my first Applications, I realized what my real passion was and started learning more about software development.
 
