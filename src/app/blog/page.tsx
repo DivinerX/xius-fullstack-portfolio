@@ -62,7 +62,7 @@ const BlogPage = async () => {
     <>
       <PageTitle
         title="Blog"
-        description={`I started writing articles in December 2021, mainly about software and
+        description={`I started writing articles in December 2024, mainly about software and
         sharing knowledge. You can search for articles by title in the search box below.`}
       />
       <FilteredPosts posts={posts} />

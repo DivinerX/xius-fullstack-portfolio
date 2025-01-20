@@ -8,60 +8,87 @@ const Experience = () => {
         Work Experience
       </h2>
       <section>
-      <div className="prose prose-neutral dark:prose-invert">
-        <h2 className="font-medium text-xl mb-1 tracking-tighter">Codemate</h2>
-        <p className="text-neutral-600 dark:text-neutral-400 text-sm">
-          Software Engineer - Sep 2021 - Nov 2024
-        </p>
-        <ul>
-          <li>
-          Led the design and development of full-stack services for the Tech Innovation Group, enhancing system functionality and reliability using Next.js, Node.js, Langchain, Flask, Azure and Redis.
-          </li>
-          <li>
-          Designed and implemented user-friendly dashboards, integrating front-end interfaces with Generative AI models and ensuring seamless back-end functionality, driving substantial user engagement and satisfaction.
-          </li>
-          <li>
-          Collaborated with cross-functional teams to gather system requirements, balance workloads, and oversee the end-to-end software development lifecycle from implementation to deployment.
-          </li>
-          <li>
-          Established robust CI/CD pipelines, conducted pull requests, and performed code reviews, ensuring high standards of code quality, scalability, and maintainability through rigorous testing (unit, integration, and end-to-end testing).
-          </li>
-        </ul>
-      
-        <hr className="my-6 border-neutral-100 dark:border-neutral-800" />
-        <h2 className="font-medium text-xl mb-1 tracking-tighter">Ubex</h2>
-        <p className="text-neutral-600 dark:text-neutral-400 text-sm">
-        Full Stack Engineer - Aug 2019 - Apr 2021
-        </p>
-        <ul>
-          <li>
-        Spearheaded the development of microservices using Node.js, Python, Open AI for the client’s personality development system.
-          </li>
-          <li>
-          Developed a CI/CD workflow to automatically perform a set of actions daily on a product in development in order to decrease time needed for team members to identify and fix bugs/issues.
-          </li>
-          <li>
-          Collaborated closely with the AI core team to strategically integrate Python backend components, ensuring the seamless operation of critical system functions.
-          </li>
-        </ul>
-        <hr className="my-6 border-neutral-100 dark:border-neutral-800" />
-        <h2 className="font-medium text-xl mb-1 tracking-tighter">AAA Intergalactic – Infrastructure</h2>
-        <p className="text-neutral-600 dark:text-neutral-400 text-sm">
-        Full Stack Developer - Jun 2017 - May 2019
-        </p>
-        <ul>
-          <li>
-          Orchestrated the creation of static websites for clients, accompanied by the development of microservices for seamless website operation
-          </li>
-          <li>
-          Played a pivotal role in shaping architecture plans, UI designs, and feature development, contributing to a 15% increase in project success rate
-          </li>
-          <li>
-          Drove the development of static websites and streamlined microservices, leading to a remarkable 20% decrease in project timelines
-          </li>
-        </ul>
-      </div>
-    </section>
+        <div className="prose prose-neutral dark:prose-invert">
+          <h2 className="font-medium text-xl mb-1 tracking-tighter">Designli</h2>
+          <p className="text-neutral-600 dark:text-neutral-400 text-sm">
+            Full stack Engineer - Sep 2021 - Nov 2024
+          </p>
+          <ul>
+            <li>
+              Led a team of 3.5 developers to create a custom application for surgical education, increasing user engagement by 40% through interactive content.
+            </li>
+            <li>
+              Managed the development process, facilitating bi-weekly sprints that resulted in the release of 6 major features in the first 6 months, improving project efficiency by 30%.
+            </li>
+            <li>
+              Implemented a content library supporting various formats (podcasts, audiobooks, PDFs, ebooks), enhancing accessibility and user satisfaction by 25%.
+            </li>
+            <li>
+              Developed a monetization strategy that gated premium content, generating an additional $50,000 in revenue within the first quarter post-launch.
+            </li>
+            <li>
+              Collaborated with designers to improve interface design, leading to a 50% reduction in user drop-off rates during onboarding.
+            </li>
+          </ul>
+
+          <hr className="my-6 border-neutral-100 dark:border-neutral-800" />
+          <h2 className="font-medium text-xl mb-1 tracking-tighter">AppDvantix</h2>
+          <p className="text-neutral-600 dark:text-neutral-400 text-sm">
+            Full Stack developer - Aug 2019 - Apr 2021
+          </p>
+          <ul>
+            <li>
+              Developed an AI-Driven Ad System that automated website creation, resulting in a 30% increase in lead conversion rates and reduced development costs for clients.
+            </li>
+            <li>
+              Engineered a high-performance website that improved user experience, leading to a 35% increase in client conversions and a 20% reduction in costs.
+            </li>
+            <li>
+              Implemented follow-up tools that engaged prospects immediately upon lead submission, contributing to a 25% increase in paid trial conversions for clients.
+            </li>
+            <li>
+              Created a comprehensive contact organizing system for Knowme Contacts, integrating mobile applications with a web admin panel, resulting in a 30% reduction in user management time and a 40% enhancement in security features.
+            </li>
+            <li>
+              Utilized Django and React.js to build a robust web application, leading to a 40% reduction in bug reports and improved user satisfaction.
+            </li>
+            <li>
+              Designed mobile applications using React Native, delivering a seamless experience that received positive feedback, leading to a 50% increase during the initial three months.
+            </li>
+            <li>
+              Facilitated secure messaging features within the contact management app, increasing collaboration and contributing to a 25% increase in engagement and a 15% rise in retention.
+            </li>
+          </ul>
+          <hr className="my-6 border-neutral-100 dark:border-neutral-800" />
+          <h2 className="font-medium text-xl mb-1 tracking-tighter">Grayphite</h2>
+          <p className="text-neutral-600 dark:text-neutral-400 text-sm">
+            Full Stack Developer - Jun 2017 - May 2019
+          </p>
+          <ul>
+            <li>
+              Developed an AI-Driven Ad System that automated website creation, resulting in a 30% increase in lead conversion rates and reduced development costs for clients.
+            </li>
+            <li>
+              Engineered a high-performance website that improved user experience, leading to a 35% increase in client conversions and a 20% reduction in costs.
+            </li>
+            <li>
+              Implemented follow-up tools that engaged prospects immediately upon lead submission, contributing to a 25% increase in paid trial conversions for clients.
+            </li>
+            <li>
+              Created a comprehensive contact organizing system for Knowme Contacts, integrating mobile applications with a web admin panel, resulting in a 30% reduction in user management time and a 40% enhancement in security features.
+            </li>
+            <li>
+              Utilized Django and React.js to build a robust web application, leading to a 40% reduction in bug reports and improved user satisfaction.
+            </li>
+            <li>
+              Designed mobile applications using React Native, delivering a seamless experience that received positive feedback, leading to a 50% increase during the initial three months.
+            </li>
+            <li>
+              Facilitated secure messaging features within the contact management app, increasing collaboration and contributing to a 25% increase in engagement and a 15% rise in retention.
+            </li>
+          </ul>
+        </div>
+      </section>
     </>
   );
 };
