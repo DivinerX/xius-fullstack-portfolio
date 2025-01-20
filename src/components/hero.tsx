@@ -25,8 +25,7 @@ const Hero = () => {
             Software Engineer
           </h2>
           <p className="sm:text-lg">
-            I am a Passionate and creative Full Stack developer based in{" "}
-            Hong Kong{" "}
+            I am a Passionate and creative Full Stack developer
           </p>
         </div>
         <div className="h-15 w-15 relative md:h-64 md:w-64">
