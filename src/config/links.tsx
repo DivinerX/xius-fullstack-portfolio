@@ -150,7 +150,7 @@ export const FOOTER_LINKS: FooterLinks = [
     id: 3,
     links: [
       {
-        href: "https://www.linkedin.com/in/locyan0825",
+        href: "https://www.linkedin.com/in/loch-yan",
         title: "LinkedIn",
       },
       {
@@ -186,7 +186,7 @@ export const HERO_LINKS: HeroLinks = [
     id: "linkedin",
     label: "Linked In",
     icon: <IconBrandLinkedin size={28} />,
-    href: "https://www.linkedin.com/in/locyan0825",
+    href: "https://www.linkedin.com/in/loch-yan",
   },
   {
     id: "medium",

@@ -36,7 +36,7 @@ const Contact = () => {
             <div className="flex flex-row gap-6">
               <p className="sm:text-lg">linkedin</p>
               <a
-                href="https://www.linkedin.com/in/locyan0825/"
+                href="https://www.linkedin.com/in/loch-yan/"
                 className="sm:text-lg text-gray-500 font-semibold dark:text-gray-300 hover:text-sky-600"
               >
                 locyan0825
