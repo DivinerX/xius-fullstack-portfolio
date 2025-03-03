@@ -57,10 +57,10 @@ export const siteMetadata = {
   experience: {
     education: [
       {
-        schoolName: "The University of Texas at Dallas",
+        schoolName: "NUS - National University of Singapore",
         degree: "Bachelor of Science",
         description:
-          "The University of Texas at Dallas is a public research university located in the Dallas, Texas.",
+          "National University of Singapore at Singapore is a public research university located at 21 Lower Kent Ridge Rd, Singapore.",
         startDate: "2013",
         endDate: "2017",
         typeofDegree: "Bachelor Degree",
